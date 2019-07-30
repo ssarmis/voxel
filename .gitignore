@@ -1,0 +1,7 @@
+libs/glew/doc
+libs/glm/doc
+libs/SDL2/i686-w64-mingw32/share
+build/
+.vscode
+*.exe
+*.mp4
